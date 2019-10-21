@@ -1,6 +1,6 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@ucsd.edu
+Fanhang Man, fman@ucsd.edu
 
 (Your teammate's contact info, if appropriate)
 
